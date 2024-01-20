@@ -9,4 +9,9 @@ JSON-server
 To start using the project follow the link https://my-json-server.typicode.com/NameInTheSand/animeListSever
 
 ## Possible requests
+#H2 GET
 https://my-json-server.typicode.com/NameInTheSand/animeListSever/anime - Get the list of the users
+https://my-json-server.typicode.com/NameInTheSand/animeListSever/anime?id={$YOUR_ID} - get the anime by id
+https://my-json-server.typicode.com/NameInTheSand/animeListSever/anime?year={$YOUR_YEAR} - get the anime by year
+
+@H2 POST
