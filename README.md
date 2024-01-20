@@ -2,7 +2,7 @@
 Server for the learning application for the YouTube channel https://www.youtube.com/channel/UC_AAFmSP9k5IW21hib-wjlg. Contains a database with a list of animes with name, genre, year, and rating.
 
 ## Technologies
-Node.js
+Node.js <br />
 JSON-server
 
 ## Setup
